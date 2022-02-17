@@ -1,2 +1,2 @@
-# react-meals
+# react-chefs
 #### React Project - Food Order App
