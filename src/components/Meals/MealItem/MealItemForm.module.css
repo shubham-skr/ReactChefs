@@ -4,13 +4,14 @@
 
 .form button {
   font: inherit;
+  font-family: poppins;
   cursor: pointer;
   background-color: #000;
   border: 2px solid #f00;
   color: #f00;
   padding: 0.3rem 1.2rem;
   border-radius: 20px;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .form button:hover,
