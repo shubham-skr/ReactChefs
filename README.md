@@ -1,4 +1,4 @@
-# ReactChefs
+# reactchef
 #### React Project - Food Order App
 
 <br/>
